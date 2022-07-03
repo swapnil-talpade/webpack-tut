@@ -6,3 +6,6 @@ form.addEventListener("submit", (e) => {
   const data = formData(form);
   console.log(data);
 });
+
+// const person: any = {};
+// console.log(person.speak());
